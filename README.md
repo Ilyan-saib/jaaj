@@ -10,6 +10,8 @@ cd 'le nom de ton repo'
   
   code .
   
+  npm i
+  
   npm run dev
   
   
